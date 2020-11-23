@@ -11,7 +11,7 @@ Run `npm i special-number`
 Use:
 
 ```
-Import rng from 'special-number';
+import rng from 'special-number';
 
 rng(5, 10);
 ```
